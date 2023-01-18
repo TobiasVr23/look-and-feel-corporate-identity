@@ -1,19 +1,15 @@
-> _Fork_ deze leertaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
 # Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+Implementatie van user-story #9
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+Bij dit project heb ik een formulier toegevoegd zodat gebruikers van de stekjesbieb hun stekjes kunnen laten zin aan andere bewoners van Amsterdam Oost.
+
+![Schermopname (39)](https://user-images.githubusercontent.com/112855854/213151283-0e21bf4a-ed33-4712-8883-ab1c3863be0f.png)
+
+https://tobiasvr23.github.io/the-client-case/
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
-
-## Bronnen
+Ik heb dezelfde CSS gebruikt bij het formulier als bij de rest van de website zodat het er mooi bij past, ook heb ik in html een functie toegevoegd zodat je een afbeelding kan kiezen om op de site te plaatsen. Daarnaast heb ik wat JavaScript gebruikt om de knoppen klikbaar te maken.
 
 ## Licentie
 
